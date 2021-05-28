@@ -1,5 +1,5 @@
 ---
-title : C 언어 프로그래밍
+title : 정보 교과서 형성평가
 layout : single
 toc: true
 toc_sticky: true
