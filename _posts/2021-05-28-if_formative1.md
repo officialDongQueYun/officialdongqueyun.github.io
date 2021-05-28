@@ -29,7 +29,7 @@ int main(void)
 ~~~
 
 ### 02. 3개의 터널 통과
-![tunnel](/assets/images/3개의 터널 통과.png)
+![tunnul](/assets/images/3개의 터널 통과.png)
 ~~~C
 #include <stdio.h>
  int main(void)
