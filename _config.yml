@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "dark", "air", "contrast", "aqua", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "어느 대한민국 학생의 "
+title                    : "어느 대한민국 학생의 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "윤동규"
