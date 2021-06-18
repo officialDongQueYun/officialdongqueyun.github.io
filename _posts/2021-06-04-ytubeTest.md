@@ -4,6 +4,8 @@ title : "크리스퍼 유전자 가위 관련한 유튜브 영상"
 toc: true
 toc_sticky: true
 toc_label: "페이지 주요 목차"
+categories: 생명공학 기술
+last_modified_at: 2021-06-18
 ---
 
 ### 1. 크리스퍼 유전자 가위(TED 영상 by Jennifer Doudna)
