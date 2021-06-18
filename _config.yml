@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "dark", "air", "contrast", "aqua", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "C 프로그래밍"
+title                    : "어느 대한민국 학생의 "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "윤동규"
