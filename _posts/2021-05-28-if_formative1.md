@@ -4,7 +4,7 @@ layout : single
 toc: true
 toc_sticky: true
 toc_label: "형성평가 문제 목차"
-categories: 수행평가
+categories: C_언어
 last_modified_at: 2021-06-18
 ---
 
